@@ -1,2 +1,2 @@
 # Springboad-submissions
-All non-code related submissions for Springboard
+All code related submissions for Springboard coupled with some other assignments
